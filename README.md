@@ -12,7 +12,7 @@ There are tremendous amount of papers on human body digitization in recent years
 
 ### 2. Shape from Silhouette
 
-<b>[CGF16] 3d body shapes estimation from dressed-human silhouettes</b> [[pdf]] (http://eprints.bournemouth.ac.uk/24967/1/1008_original.pdf)
+<b>[CGF16] 3d body shapes estimation from dressed-human silhouettes</b> [[pdf]](http://eprints.bournemouth.ac.uk/24967/1/1008_original.pdf)
 
 <b>[ICCV15] Interactive visual hull refinement for specular and transparent object surface reconstruction</b> [[pdf]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Zuo_Interactive_Visual_Hull_ICCV_2015_paper.pdf)
 
