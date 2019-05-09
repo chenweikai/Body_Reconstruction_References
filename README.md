@@ -11,7 +11,7 @@ Below shows my collection of papers organized in a reverse-chronological order.
    - [Multi-view Stereo](#Multi-view-Stereo)
    - [Photometric Stereo](#Photometric)
    - [Template based Approaches](#Template)
-   - [Parmatric Models](#Parmatric)
+   - [Parametric Models](#Parametric)
 2. [Single-view Reconstruction](#Single-view-Reconstruction)
 3. [4D Scans](#4D-Scans)
 
