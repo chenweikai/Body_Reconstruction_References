@@ -39,12 +39,11 @@ Below shows my collection of papers organized in a reverse-chronological order.
 
 <b>[TVCG10] A point-cloud-based multiview stereo algorithm for free-viewpoint video</b> [[pdf]](https://dl.acm.org/citation.cfm?id=1749522)
 
-<b>[SIGGRAPH08] Performance capture from sparse multi-view video</b> [[project page]](http://resources.mpi-inf.mpg.de/perfcap/)[[pdf]](https://gvv.mpi-inf.mpg.de/files/old_site_files/pcmv_preprint.pdf)
+<b>[SIGGRAPH08] Markerless garment capture</b> [[project page]](http://www.cs.ubc.ca/labs/imager/tr/2008/MarkerlessGarmentCapture/)[[pdf]](https://vccimaging.org/Publications/Bradley2008MGC/Bradley2008MGC.pdf)
 
 <b>[CGA07] Surface capture for performance-based animation</b> [[pdf]](https://core.ac.uk/download/pdf/397966.pdf)
 
 <b>[TVC05] Scalable 3d video of dynamic scenes</b> [[pdf]](https://cgl.ethz.ch/Downloads/Publications/Papers/2005/Was05/Was05.pdf)
-
 
 
 <b></b> [[pdf]]()
@@ -53,30 +52,67 @@ Below shows my collection of papers organized in a reverse-chronological order.
 
 ### 4. Photometric Stereo & Shape from Shading
 
-<b>[ECCV12] Full body performance capture under uncontrolled and varying illumination: A shading-based approach</b> [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.367.354&rep=rep1&type=pdf)
-
 <b>[ICCV11] Shading-based dynamic shape refinement from multi-view video under general illumination</b> [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.226.8025&rep=rep1&type=pdf)
 
 <b>[SIGGRAPH_Asia09] Dynamic shape capture using multi-view photometric stereo</b> [[project page]](http://gl.ict.usc.edu/Research/dynamicshape/) [[pdf]](https://people.csail.mit.edu/wojciech/MultiviewPhotometricStereo/MultiviewPS.pdf)
 
-<b>[ECCV12] Full body performance capture under uncontrolled and varying illumination: A shading-based approach</b> [[pdf]]()
+### 5. Template based Approaches
+
+<b>[TOG13] On-set performance capture of multiple actors with a stereo camera</b> [[pdf]](https://gvv.mpi-inf.mpg.de/files/SIGGRAPH_ASIA_2013/binocap_high.pdf)
+
+<b>[ECCV12] Full body performance capture under uncontrolled and varying illumination: A shading-based approach</b> [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.367.354&rep=rep1&type=pdf)
+
+<b>[CVPR11] Markerless motion capture
+of interacting characters using multi-view image segmentation</b> [[pdf]](https://pages.iai.uni-bonn.de/gall_juergen/download/jgall_multitrack_cvpr11.pdf)
+
+<b>[SIGGRAPH_Asia10] Video-based reconstruction of animatable human characters</b> [[project page]](http://resources.mpi-inf.mpg.de/perfcap/index_vrhc.html)[[pdf]](https://people.mpi-inf.mpg.de/~theobalt/vrhc.pdf)
+
+<b>[SIGGRAPH08] Performance capture from sparse multi-view video</b> [[project page]](http://resources.mpi-inf.mpg.de/perfcap/)[[pdf]](https://gvv.mpi-inf.mpg.de/files/old_site_files/pcmv_preprint.pdf)
+
+<b>[CVPR09] Motion capture using joint skeleton tracking and surface estimation</b> [[pdf]](https://www.tnt.uni-hannover.de/papers/data/773/773_1.pdf)
+
+<b>[CVPR08] Robust fusion of dynamic shape and normal capture for high-quality reconstruction of time-varying
+geometry</b> [[pdf]](https://gvv.mpi-inf.mpg.de/files/old_site_files/cvpr08b.pdf)
 
 
-### 5. Parametric Template Models
+
+### 6. Parametric Models
+
+<b>[CVPR19] Expressive Body Capture: 3D Hands, Face, and Body from a Single Image</b> [[project page]](https://smpl-x.is.tue.mpg.de/) [[pdf]](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/497/SMPL-X.pdf)
+
+<b>[CVPR18 Oral] Total Capture: A 3D Deformation Model for Tracking Faces, Hands, and Bodies</b> [[project page]](http://www.cs.cmu.edu/~hanbyulj/totalcapture/) [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Joo_Total_Capture_A_CVPR_2018_paper.pdf)
+
+<b>[CVPR18] End-to-end recovery of human shape and pose</b> [[project page]](https://akanazawa.github.io/hmr/) [[code and data]](https://github.com/akanazawa/hmr) [[pdf]](https://arxiv.org/pdf/1712.06584.pdf)
+
+<b>[CVPR17] Unite the people: Closing the loop between 3d and 2d human representations</b> [[project page(code and data)]](http://files.is.tuebingen.mpg.de/classner/up/) [[pdf]](https://arxiv.org/pdf/1701.02468.pdf)
+
+<b>[BMVC17] Indirect deep structured learning for 3D human body shape and pose prediction</b> [[pdf]](http://mi.eng.cam.ac.uk/~cipolla/publications/inproceedings/2017-BMVC-3D-body-indirect.pdf)
+  
+<b>[ECCV16] Keep it SMPL: Automatic estimation of 3d human pose and shape from a single image</b> [[code]](https://github.com/genki-ist/simplify) [[pdf]](https://arxiv.org/pdf/1607.08128.pdf)
+
+<b>[SIGGRAPH_Asia15]SMPL: A skinned multi-person linear model</b> [[project page]](http://smpl.is.tue.mpg.de/)[[pdf]](http://files.is.tue.mpg.de/black/papers/SMPL2015.pdf)
+
+<b>[TOG14] Mosh: Motion and shape capture from sparse markers</b> [[project page]](https://ps.is.tuebingen.mpg.de/research_projects/mosh) [[pdf]](http://files.is.tue.mpg.de/black/papers/MoSh.pdf)
+
+<b>[CVPR10] Multilinear pose and body shape estimation of dressed subjects from image sets</b> [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.167.8773&rep=rep1&type=pdf)
+
+<b>[ICCV09] Estimating Human Shape and Pose from a Single Image</b> [[pdf]](http://files.is.tue.mpg.de/black/papers/guanICCV09.pdf)
+
+<b>[CVPR07] Detailed human shape and pose from images</b> [[pdf]](http://www.cs.cmu.edu/~jkh/gnhm_08/balan07imscape.pdf)
+
+<b>[SIGGRAPH05] SCAPE: shape completion and animation of people</b> [[project page]](http://robotics.stanford.edu/~drago/Projects/scape/scape.html) [[pdf]](http://robots.stanford.edu/papers/anguelov.shapecomp.pdf)
+
+<b>[CVIU01] Tracking and modeling people in video sequences</b> [[pdf]](http://luthuli.cs.uiuc.edu/~daf/courses/appcv/papers/ankers01tracking.pdf)
+
+
+<b></b> [[project page]]() [[pdf]]()
+<b></b> [[project page]]() [[pdf]]()
+<b></b> [[project page]]() [[pdf]]()
+<b></b> [[project page]]() [[pdf]]()
 
 <b></b> [[pdf]]()
 <b></b> [[pdf]]()
 <b></b> [[pdf]]()
-
-<b></b> [[project page]](http://hhoppe.com/proj/fvv/) [[pdf]]()
-
-<b></b> [[project page]]() [[pdf]]()
-
-<b></b> [[project page]]() [[pdf]]()
-
-<b></b> [[project page]]() [[pdf]]()
-
-<b></b> [[project page]]() [[pdf]]()
 
 ## Single-view Reconstruction
 
@@ -100,9 +136,17 @@ Below shows my collection of papers organized in a reverse-chronological order.
 
 <b>[arxiv19] DeepHuman 3D Human Reconstruction from a Single Image</b> [[pdf]](http://www.liuyebin.com/deephuman/assets/DeepHuman.pdf)
 
+<b>[CVPR18] End-to-end recovery of human shape and pose</b> [[project page]](https://akanazawa.github.io/hmr/) [[code and data]](https://github.com/akanazawa/hmr) [[pdf]](https://arxiv.org/pdf/1712.06584.pdf)
+
 <b>[3DV18] Neural Body Fitting: Unifying Deep Learning and Model-Based Human Pose</b> [[pdf]](https://arxiv.org/pdf/1808.05942.pdf)
+
+<b>[ICCV09] Estimating Human Shape and Pose from a Single Image</b> [[pdf]](http://files.is.tue.mpg.de/black/papers/guanICCV09.pdf)
 
 ## 4D Scans
 
 <b>[SIGGRAPH17] ClothCap: seamless 4D clothing capture and retargeting</b> [[project page]](http://clothcap.is.tue.mpg.de/) [[pdf]](http://delivery.acm.org/10.1145/3080000/3073711/a73-pons-moll.pdf?ip=104.174.111.226&id=3073711&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2EA3ADFD50D6708552&__acm__=1557388386_0a9b1d6d188b8f850bf8b5f190d8060e)
 
+
+## Datasets and Code
+
+<b>MPI datasets and code</b>[[Link]](https://ps.is.tuebingen.mpg.de/research_fields/datasets-and-code)
