@@ -16,7 +16,7 @@ Below shows my collection of papers organized in a reverse-chronological order.
 3. [4D Scans](#4D-Scans)
 
 
-## Multi-view-Reconstruction
+## Multi-view Reconstruction
 
 <a name="Deep-Learning" />
 
@@ -132,7 +132,7 @@ geometry</b> [[pdf]](https://gvv.mpi-inf.mpg.de/files/old_site_files/cvpr08b.pdf
 <b></b> [[pdf]]()
 -->
 
-## Single-view-Reconstruction
+## Single-view Reconstruction
 
 <b>[CVPR19 Oral] SiCloPe: Silhouette-Based Clothed People </b>[[pdf]](https://arxiv.org/pdf/1901.00049.pdf)
 
