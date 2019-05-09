@@ -26,6 +26,8 @@ Below shows my collection of papers organized in a reverse-chronological order.
 
 <b>[ECCV18] Bodynet: Volumetric inference of 3d human body shapes</b> [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Gul_Varol_BodyNet_Volumetric_Inference_ECCV_2018_paper.pdf)
 
+<b>[ECCV18] Volumetric performance capture from minimal camera viewpoints</b> [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Andrew_Gilbert_Volumetric_performance_capture_ECCV_2018_paper.pdf)
+
 <a name="Silhouette" />
 
 ### 2. Shape from Silhouette
