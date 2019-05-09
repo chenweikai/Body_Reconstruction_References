@@ -6,17 +6,27 @@ Below shows my collection of papers organized in a reverse-chronological order.
 ## Contents
 
 1. [Multi-view Reconstruction](#Multi-view-Reconstruction)
+   - [Deep Learning](#Deep-Learning)
+   - [Shape from Silhouette](#Silhouette)
+   - [Multi-view Stereo](#Multi-view-Stereo)
+   - [Photometric Stereo](#Photometric)
+   - [Template based Approaches](#Template)
+   - [Parmatric Models](#Parmatric)
 2. [Single-view Reconstruction](#Single-view-Reconstruction)
 3. [4D Scans](#4D-Scans)
 
 
 ## Multi-view-Reconstruction
 
+<a name="Deep-Learning" />
+
 ### 1. Deep Learning 
 
 <b>[ECCV18] Deep Volumetric Video From Very Sparse Multi-View Performance Capture</b> [[pdf]](http://chenweikai.github.io/papers/[ECCV18]Deep%20Volumetric%20Video%20From%20Very%20Sparse%20Multi-View%20Performance%20Capture.pdf)
 
 <b>[ECCV18] Bodynet: Volumetric inference of 3d human body shapes</b> [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Gul_Varol_BodyNet_Volumetric_Inference_ECCV_2018_paper.pdf)
+
+<a name="Silhouette" />
 
 ### 2. Shape from Silhouette
 
@@ -38,6 +48,8 @@ Below shows my collection of papers organized in a reverse-chronological order.
 
 <b>[CGIT00] Image-based visual hulls</b> [[project page]](https://people.csail.mit.edu/wojciech/IBVH/index.html)[[pdf]](https://people.csail.mit.edu/wojciech/IBVH/ibvh.pdf)
 
+<a name="Multi-view-Stereo" />
+
 ### 3. Multi-view Stereo
 
 <b>[UIST] Holoportation: Virtual 3d teleportation in real-time</b> [[project page]](https://www.microsoft.com/en-us/research/project/holoportation-3/) [[pdf]](http://www.cs.toronto.edu/~slwang/holoportation.pdf)
@@ -52,12 +64,15 @@ Below shows my collection of papers organized in a reverse-chronological order.
 
 <b>[TVC05] Scalable 3d video of dynamic scenes</b> [[pdf]](https://cgl.ethz.ch/Downloads/Publications/Papers/2005/Was05/Was05.pdf)
 
+<a name="Photometric" />
 
-### 4. Photometric Stereo & Shape from Shading
+### 4. Photometric Stereo 
 
 <b>[ICCV11] Shading-based dynamic shape refinement from multi-view video under general illumination</b> [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.226.8025&rep=rep1&type=pdf)
 
 <b>[SIGGRAPH_Asia09] Dynamic shape capture using multi-view photometric stereo</b> [[project page]](http://gl.ict.usc.edu/Research/dynamicshape/) [[pdf]](https://people.csail.mit.edu/wojciech/MultiviewPhotometricStereo/MultiviewPS.pdf)
+
+<a name="Template" />
 
 ### 5. Template based Approaches
 
@@ -77,7 +92,7 @@ of interacting characters using multi-view image segmentation</b> [[pdf]](https:
 <b>[CVPR08] Robust fusion of dynamic shape and normal capture for high-quality reconstruction of time-varying
 geometry</b> [[pdf]](https://gvv.mpi-inf.mpg.de/files/old_site_files/cvpr08b.pdf)
 
-
+<a name="Parametric" />
 
 ### 6. Parametric Models
 
