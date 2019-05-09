@@ -1,6 +1,7 @@
 # Human Body Reconstruction 
 
-There are tremendous amount of papers on human body digitization in recent years. Here is my collection of papers organized in a reverse-chronological order. Please feel free to edit it to keep it up-to-date. 
+There are tremendous amount of papers on human body digitization in recent years. 
+Below shows my collection of papers organized in a reverse-chronological order. 
 
 ## Multi-view Reconstruction
 
