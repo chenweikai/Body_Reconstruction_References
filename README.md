@@ -108,7 +108,7 @@ geometry</b> [[pdf]](https://gvv.mpi-inf.mpg.de/files/old_site_files/cvpr08b.pdf
   
 <b>[ECCV16] Keep it SMPL: Automatic estimation of 3d human pose and shape from a single image</b> [[code]](https://github.com/genki-ist/simplify) [[pdf]](https://arxiv.org/pdf/1607.08128.pdf)
 
-<b>[SIGGRAPH_Asia15]SMPL: A skinned multi-person linear model</b> [[project page]](http://smpl.is.tue.mpg.de/)[[pdf]](http://files.is.tue.mpg.de/black/papers/SMPL2015.pdf)
+<b>[SIGGRAPH_Asia15] SMPL: A skinned multi-person linear model</b> [[project page]](http://smpl.is.tue.mpg.de/)[[pdf]](http://files.is.tue.mpg.de/black/papers/SMPL2015.pdf)
 
 <b>[TOG14] Mosh: Motion and shape capture from sparse markers</b> [[project page]](https://ps.is.tuebingen.mpg.de/research_projects/mosh) [[pdf]](http://files.is.tue.mpg.de/black/papers/MoSh.pdf)
 
