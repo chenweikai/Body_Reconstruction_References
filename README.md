@@ -3,7 +3,14 @@
 There are tremendous amount of papers on human body digitization in recent years. 
 Below shows my collection of papers organized in a reverse-chronological order. 
 
-## Multi-view Reconstruction
+## Contents
+
+1. [Multi-view Reconstruction](#Multi-view-Reconstruction)
+2. [Single-view Reconstruction](#Single-view-Reconstruction)
+3. [4D Scans](#4D-Scans)
+
+
+## Multi-view-Reconstruction
 
 ### 1. Deep Learning 
 
@@ -110,7 +117,7 @@ geometry</b> [[pdf]](https://gvv.mpi-inf.mpg.de/files/old_site_files/cvpr08b.pdf
 <b></b> [[pdf]]()
 -->
 
-## Single-view Reconstruction
+## Single-view-Reconstruction
 
 <b>[CVPR19 Oral] SiCloPe: Silhouette-Based Clothed People </b>[[pdf]](https://arxiv.org/pdf/1901.00049.pdf)
 
@@ -138,7 +145,7 @@ geometry</b> [[pdf]](https://gvv.mpi-inf.mpg.de/files/old_site_files/cvpr08b.pdf
 
 <b>[ICCV09] Estimating Human Shape and Pose from a Single Image</b> [[pdf]](http://files.is.tue.mpg.de/black/papers/guanICCV09.pdf)
 
-## 4D Scans
+## 4D-Scans
 
 <b>[SIGGRAPH17] ClothCap: seamless 4D clothing capture and retargeting</b> [[project page]](http://clothcap.is.tue.mpg.de/) [[pdf]](http://delivery.acm.org/10.1145/3080000/3073711/a73-pons-moll.pdf?ip=104.174.111.226&id=3073711&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2EA3ADFD50D6708552&__acm__=1557388386_0a9b1d6d188b8f850bf8b5f190d8060e)
 
