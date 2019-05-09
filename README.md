@@ -45,11 +45,6 @@ Below shows my collection of papers organized in a reverse-chronological order.
 
 <b>[TVC05] Scalable 3d video of dynamic scenes</b> [[pdf]](https://cgl.ethz.ch/Downloads/Publications/Papers/2005/Was05/Was05.pdf)
 
-```
-<b></b> [[pdf]]()
-<b></b> [[pdf]]()
-<b></b> [[pdf]]()
-```
 
 ### 4. Photometric Stereo & Shape from Shading
 
@@ -105,16 +100,15 @@ geometry</b> [[pdf]](https://gvv.mpi-inf.mpg.de/files/old_site_files/cvpr08b.pdf
 
 <b>[CVIU01] Tracking and modeling people in video sequences</b> [[pdf]](http://luthuli.cs.uiuc.edu/~daf/courses/appcv/papers/ankers01tracking.pdf)
 
-```
+<!--
 <b></b> [[project page]]() [[pdf]]()
 <b></b> [[project page]]() [[pdf]]()
 <b></b> [[project page]]() [[pdf]]()
 <b></b> [[project page]]() [[pdf]]()
-
 <b></b> [[pdf]]()
 <b></b> [[pdf]]()
 <b></b> [[pdf]]()
-```
+-->
 
 ## Single-view Reconstruction
 
