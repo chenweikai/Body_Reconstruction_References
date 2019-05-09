@@ -52,7 +52,7 @@ Below shows my collection of papers organized in a reverse-chronological order.
 
 ### 3. Multi-view Stereo
 
-<b>[UIST] Holoportation: Virtual 3d teleportation in real-time</b> [[project page]](https://www.microsoft.com/en-us/research/project/holoportation-3/) [[pdf]](http://www.cs.toronto.edu/~slwang/holoportation.pdf)
+<b>[UIST16] Holoportation: Virtual 3d teleportation in real-time</b> [[project page]](https://www.microsoft.com/en-us/research/project/holoportation-3/) [[pdf]](http://www.cs.toronto.edu/~slwang/holoportation.pdf)
 
 <b>[SIGGRAPH15] High-quality streamable free-viewpoint video</b> [[project page]](http://hhoppe.com/proj/fvv/) [[pdf]](http://hhoppe.com/fvv.pdf)
 
