@@ -12,7 +12,7 @@ There are tremendous amount of papers on human body digitization in recent years
 
 ### 2. Shape from Silhouette
 
-<b>[CGF16]3d body shapes estimation from dressed-human silhouettes</b> [[pdf]] (http://eprints.bournemouth.ac.uk/24967/1/1008_original.pdf)
+<b>[CGF16] 3d body shapes estimation from dressed-human silhouettes</b> [[pdf]] (http://eprints.bournemouth.ac.uk/24967/1/1008_original.pdf)
 
 <b>[ICCV15] Interactive visual hull refinement for specular and transparent object surface reconstruction</b> [[pdf]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Zuo_Interactive_Visual_Hull_ICCV_2015_paper.pdf)
 
@@ -38,6 +38,8 @@ There are tremendous amount of papers on human body digitization in recent years
 
 <b>[TVCG10] A point-cloud-based multiview stereo algorithm for free-viewpoint video</b> [[pdf]](https://dl.acm.org/citation.cfm?id=1749522)
 
+<b>[SIGGRAPH08] Performance capture from sparse multi-view video</b> [[project page]](http://resources.mpi-inf.mpg.de/perfcap/)[[pdf]](https://gvv.mpi-inf.mpg.de/files/old_site_files/pcmv_preprint.pdf)
+
 <b>[CGA07] Surface capture for performance-based animation</b> [[pdf]](https://core.ac.uk/download/pdf/397966.pdf)
 
 <b>[TVC05] Scalable 3d video of dynamic scenes</b> [[pdf]](https://cgl.ethz.ch/Downloads/Publications/Papers/2005/Was05/Was05.pdf)
@@ -48,11 +50,18 @@ There are tremendous amount of papers on human body digitization in recent years
 <b></b> [[pdf]]()
 <b></b> [[pdf]]()
 
-### 4. Photometric Stereo
+### 4. Photometric Stereo & Shape from Shading
+
+<b>[ECCV12] Full body performance capture under uncontrolled and varying illumination: A shading-based approach</b> [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.367.354&rep=rep1&type=pdf)
 
 <b>[ICCV11] Shading-based dynamic shape refinement from multi-view video under general illumination</b> [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.226.8025&rep=rep1&type=pdf)
 
 <b>[SIGGRAPH_Asia09] Dynamic shape capture using multi-view photometric stereo</b> [[project page]](http://gl.ict.usc.edu/Research/dynamicshape/) [[pdf]](https://people.csail.mit.edu/wojciech/MultiviewPhotometricStereo/MultiviewPS.pdf)
+
+<b>[ECCV12] Full body performance capture under uncontrolled and varying illumination: A shading-based approach</b> [[pdf]]()
+
+
+### 5. Parametric Template Models
 
 <b></b> [[pdf]]()
 <b></b> [[pdf]]()
