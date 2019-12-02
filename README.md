@@ -148,8 +148,6 @@ geometry</b> [[pdf]](https://gvv.mpi-inf.mpg.de/files/old_site_files/cvpr08b.pdf
 
 <b>[ICCV19] PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization</b> [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Saito_PIFu_Pixel-Aligned_Implicit_Function_for_High-Resolution_Clothed_Human_Digitization_ICCV_2019_paper.pdf)
 
-<b>[ICCV19] 3DPeople: Modeling the Geometry of Dressed Humans</b> [[pdf]](https://arxiv.org/pdf/1904.04571.pdf)
-
 <b>[ICCV19] Moulding Humans: Non-parametric 3D Human Shape Estimation from Single Images</b> [[pdf]](https://arxiv.org/pdf/1908.00439.pdf)
 
 <b>[ICCV19] 3DPeople: Modeling the Geometry of Dressed Humans</b> [[pdf]](https://arxiv.org/pdf/1904.04571.pdf)
