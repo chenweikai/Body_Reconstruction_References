@@ -22,6 +22,10 @@ Below shows my collection of papers organized in a reverse-chronological order.
 
 ### 1. Deep Learning 
 
+<b>[ICCV19] Shape-Aware Human Pose and Shape Reconstruction Using Multi-View Images</b> [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Liang_Shape-Aware_Human_Pose_and_Shape_Reconstruction_Using_Multi-View_Images_ICCV_2019_paper.pdf)
+
+<b>[ICCV19] Human Mesh Recovery From Monocular Images via a Skeleton-Disentangled Representation</b> [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Sun_Human_Mesh_Recovery_From_Monocular_Images_via_a_Skeleton-Disentangled_Representation_ICCV_2019_paper.pdf)
+
 <b>[ECCV18] Deep Volumetric Video From Very Sparse Multi-View Performance Capture</b> [[pdf]](http://chenweikai.github.io/papers/[ECCV18]Deep%20Volumetric%20Video%20From%20Very%20Sparse%20Multi-View%20Performance%20Capture.pdf)
 
 <b>[ECCV18] Bodynet: Volumetric inference of 3d human body shapes</b> [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Gul_Varol_BodyNet_Volumetric_Inference_ECCV_2018_paper.pdf)
@@ -135,6 +139,25 @@ geometry</b> [[pdf]](https://gvv.mpi-inf.mpg.de/files/old_site_files/cvpr08b.pdf
 -->
 
 ## Single-view Reconstruction
+<b>[ICCV19] Tex2Shape: Detailed Full Human Body Geometry From a Single Image</b> [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Alldieck_Tex2Shape_Detailed_Full_Human_Body_Geometry_From_a_Single_Image_ICCV_2019_paper.pdf)
+
+<b>[ICCV19] PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization</b> [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Saito_PIFu_Pixel-Aligned_Implicit_Function_for_High-Resolution_Clothed_Human_Digitization_ICCV_2019_paper.pdf)
+
+<b>[ICCV19] 3DPeople: Modeling the Geometry of Dressed Humans</b> [[pdf]](https://arxiv.org/pdf/1904.04571.pdf)
+
+<b>[ICCV19] Learning to Reconstruct 3D Human Pose and Shape via Model-fitting in the Loop</b> [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kolotouros_Learning_to_Reconstruct_3D_Human_Pose_and_Shape_via_Model-Fitting_ICCV_2019_paper.pdf)
+
+<b>[ICCV19] Moulding Humans: Non-parametric 3D Human Shape Estimation from Single Images</b> [[pdf]](https://arxiv.org/pdf/1908.00439.pdf)
+
+<b>[ICCV19] 3DPeople: Modeling the Geometry of Dressed Humans</b> [[pdf]](https://arxiv.org/pdf/1904.04571.pdf)
+
+<b>[ICCV19] DeepHuman: 3D Human Reconstruction From a Single Image</b> [[pdf]](http://www.liuyebin.com/deephuman/assets/DeepHuman.pdf)
+
+<b>[ICCV19] A Neural Network for Detailed Human Depth Estimation From a Single Image</b> [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Tang_A_Neural_Network_for_Detailed_Human_Depth_Estimation_From_a_ICCV_2019_paper.pdf)
+
+<b>[ICCV19] TexturePose: Supervising Human Mesh Estimation with Texture Consistency</b> [[pdf]](https://www.seas.upenn.edu/~nkolot/files/texturepose.pdf)
+
+<b>[ICCV19] Delving Deep Into Hybrid Annotations for 3D Human Recovery in the Wild</b> [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Rong_Delving_Deep_Into_Hybrid_Annotations_for_3D_Human_Recovery_in_ICCV_2019_paper.pdf)
 
 <b>[CVPR19 Oral] SiCloPe: Silhouette-Based Clothed People </b>[[pdf]](https://arxiv.org/pdf/1901.00049.pdf)
 
@@ -161,6 +184,8 @@ geometry</b> [[pdf]](https://gvv.mpi-inf.mpg.de/files/old_site_files/cvpr08b.pdf
 <b>[3DV18] Neural Body Fitting: Unifying Deep Learning and Model-Based Human Pose</b> [[pdf]](https://arxiv.org/pdf/1808.05942.pdf)
 
 <b>[ICCV09] Estimating Human Shape and Pose from a Single Image</b> [[pdf]](http://files.is.tue.mpg.de/black/papers/guanICCV09.pdf)
+
+
 
 ## 4D-Scans
 
