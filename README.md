@@ -174,12 +174,6 @@ geometry</b> [[pdf]](https://gvv.mpi-inf.mpg.de/files/old_site_files/cvpr08b.pdf
 
 <b>[TOG19] LiveCap: Real-time Human Performance Capture from Monocular Video</b> [[project page]](https://gvv.mpi-inf.mpg.de/projects/LiveCap/) [[pdf]](https://gvv.mpi-inf.mpg.de/projects/LiveCap/data/livecap.pdf)
 
-<b>[arxiv19] 3DPeople: Modeling the Geometry of Dressed Humans</b> [[pdf]](https://arxiv.org/pdf/1904.04571.pdf)
-
-<b>[arxiv19] Tex2Shape: Detailed Full Human Body Geometry from a Single Image</b> [[pdf]](https://arxiv.org/pdf/1904.08645.pdf)
-
-<b>[arxiv19] DeepHuman 3D Human Reconstruction from a Single Image</b> [[pdf]](http://www.liuyebin.com/deephuman/assets/DeepHuman.pdf)
-
 <b>[CVPR18] End-to-end recovery of human shape and pose</b> [[project page]](https://akanazawa.github.io/hmr/) [[code and data]](https://github.com/akanazawa/hmr) [[pdf]](https://arxiv.org/pdf/1712.06584.pdf)
 
 <b>[3DV18] Neural Body Fitting: Unifying Deep Learning and Model-Based Human Pose</b> [[pdf]](https://arxiv.org/pdf/1808.05942.pdf)
