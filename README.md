@@ -24,6 +24,8 @@ Below shows my collection of papers organized in a reverse-chronological order.
 
 <b>[ICCV19] Shape-Aware Human Pose and Shape Reconstruction Using Multi-View Images</b> [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Liang_Shape-Aware_Human_Pose_and_Shape_Reconstruction_Using_Multi-View_Images_ICCV_2019_paper.pdf)
 
+<b>[ICCV19] TexturePose: Supervising Human Mesh Estimation with Texture Consistency</b> [[pdf]](https://www.seas.upenn.edu/~nkolot/files/texturepose.pdf)
+
 <b>[ICCV19] Human Mesh Recovery From Monocular Images via a Skeleton-Disentangled Representation</b> [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Sun_Human_Mesh_Recovery_From_Monocular_Images_via_a_Skeleton-Disentangled_Representation_ICCV_2019_paper.pdf)
 
 <b>[ECCV18] Deep Volumetric Video From Very Sparse Multi-View Performance Capture</b> [[pdf]](http://chenweikai.github.io/papers/[ECCV18]Deep%20Volumetric%20Video%20From%20Very%20Sparse%20Multi-View%20Performance%20Capture.pdf)
@@ -155,8 +157,6 @@ geometry</b> [[pdf]](https://gvv.mpi-inf.mpg.de/files/old_site_files/cvpr08b.pdf
 <b>[ICCV19] DeepHuman: 3D Human Reconstruction From a Single Image</b> [[pdf]](http://www.liuyebin.com/deephuman/assets/DeepHuman.pdf)
 
 <b>[ICCV19] A Neural Network for Detailed Human Depth Estimation From a Single Image</b> [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Tang_A_Neural_Network_for_Detailed_Human_Depth_Estimation_From_a_ICCV_2019_paper.pdf)
-
-<b>[ICCV19] TexturePose: Supervising Human Mesh Estimation with Texture Consistency</b> [[pdf]](https://www.seas.upenn.edu/~nkolot/files/texturepose.pdf)
 
 <b>[ICCV19] Delving Deep Into Hybrid Annotations for 3D Human Recovery in the Wild</b> [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Rong_Delving_Deep_Into_Hybrid_Annotations_for_3D_Human_Recovery_in_ICCV_2019_paper.pdf)
 
