@@ -102,6 +102,8 @@ geometry</b> [[pdf]](https://gvv.mpi-inf.mpg.de/files/old_site_files/cvpr08b.pdf
 
 ### 6. Parametric Models
 
+<b>[ICCV19] Learning to Reconstruct 3D Human Pose and Shape via Model-fitting in the Loop</b> [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kolotouros_Learning_to_Reconstruct_3D_Human_Pose_and_Shape_via_Model-Fitting_ICCV_2019_paper.pdf)
+
 <b>[CVPR19] Expressive Body Capture: 3D Hands, Face, and Body from a Single Image</b> [[project page]](https://smpl-x.is.tue.mpg.de/) [[pdf]](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/497/SMPL-X.pdf)
 
 <b>[CVPR18 Oral] Total Capture: A 3D Deformation Model for Tracking Faces, Hands, and Bodies</b> [[project page]](http://www.cs.cmu.edu/~hanbyulj/totalcapture/) [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Joo_Total_Capture_A_CVPR_2018_paper.pdf)
@@ -139,13 +141,12 @@ geometry</b> [[pdf]](https://gvv.mpi-inf.mpg.de/files/old_site_files/cvpr08b.pdf
 -->
 
 ## Single-view Reconstruction
+
 <b>[ICCV19] Tex2Shape: Detailed Full Human Body Geometry From a Single Image</b> [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Alldieck_Tex2Shape_Detailed_Full_Human_Body_Geometry_From_a_Single_Image_ICCV_2019_paper.pdf)
 
 <b>[ICCV19] PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization</b> [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Saito_PIFu_Pixel-Aligned_Implicit_Function_for_High-Resolution_Clothed_Human_Digitization_ICCV_2019_paper.pdf)
 
 <b>[ICCV19] 3DPeople: Modeling the Geometry of Dressed Humans</b> [[pdf]](https://arxiv.org/pdf/1904.04571.pdf)
-
-<b>[ICCV19] Learning to Reconstruct 3D Human Pose and Shape via Model-fitting in the Loop</b> [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kolotouros_Learning_to_Reconstruct_3D_Human_Pose_and_Shape_via_Model-Fitting_ICCV_2019_paper.pdf)
 
 <b>[ICCV19] Moulding Humans: Non-parametric 3D Human Shape Estimation from Single Images</b> [[pdf]](https://arxiv.org/pdf/1908.00439.pdf)
 
