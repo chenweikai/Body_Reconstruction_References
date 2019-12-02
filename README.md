@@ -192,3 +192,5 @@ geometry</b> [[pdf]](https://gvv.mpi-inf.mpg.de/files/old_site_files/cvpr08b.pdf
 <b>3DPeople (still pending)</b>[[Link]](https://www.albertpumarola.com/research/3DPeople/index.html)
 
 <b>THuman</b>[[Link]](https://github.com/ZhengZerong/DeepHuman/tree/master/THUmanDataset)
+
+<b>RenderPeople</b>[[Link]](https://renderpeople.com/)
