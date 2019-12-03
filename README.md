@@ -189,6 +189,10 @@ geometry</b> [[pdf]](https://gvv.mpi-inf.mpg.de/files/old_site_files/cvpr08b.pdf
 
 <b>MPI datasets and code</b>[[Link]](https://ps.is.tuebingen.mpg.de/research_fields/datasets-and-code)
 
+<b>BUFF</b>[[Link]](http://buff.is.tue.mpg.de/)
+
+<b>Dynamic FAUST</b>[[Link]](https://ps.is.tuebingen.mpg.de/publications/dfaust-cvpr-2017)
+
 <b>3DPeople (still pending)</b>[[Link]](https://www.albertpumarola.com/research/3DPeople/index.html)
 
 <b>THuman</b>[[Link]](https://github.com/ZhengZerong/DeepHuman/tree/master/THUmanDataset)
