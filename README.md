@@ -184,12 +184,23 @@ geometry</b> [[pdf]](https://gvv.mpi-inf.mpg.de/files/old_site_files/cvpr08b.pdf
 
 <b>[SIGGRAPH17] ClothCap: seamless 4D clothing capture and retargeting</b> [[project page]](http://clothcap.is.tue.mpg.de/) [[pdf]](http://delivery.acm.org/10.1145/3080000/3073711/a73-pons-moll.pdf?ip=104.174.111.226&id=3073711&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2EA3ADFD50D6708552&__acm__=1557388386_0a9b1d6d188b8f850bf8b5f190d8060e)
 
-<!--
+
 ## Datasets and Code
 <b>MPI datasets and code</b>[[Link]](https://ps.is.tuebingen.mpg.de/research_fields/datasets-and-code)
+
 <b>BUFF</b>[[Link]](http://buff.is.tue.mpg.de/)
+
 <b>Dynamic FAUST</b>[[Link]](https://ps.is.tuebingen.mpg.de/publications/dfaust-cvpr-2017)
-<b>3DPeople (still pending)</b>[[Link]](https://www.albertpumarola.com/research/3DPeople/index.html)
+
+<b>CVSSP3D</b>[[Link]](https://www.cvssp.org/data/cvssp3d/)
+
+<b>Mixamo</b>[[Link]](https://www.mixamo.com/)
+
+<b>Human3.6M</b>[[Link]](http://vision.imar.ro/human3.6m/description.php)
+
+<b>3DPeople</b>[[Link]](https://www.albertpumarola.com/research/3DPeople/index.html)
+
 <b>THuman</b>[[Link]](https://github.com/ZhengZerong/DeepHuman/tree/master/THUmanDataset)
+
 <b>RenderPeople</b>[[Link]](https://renderpeople.com/)
--->
+
